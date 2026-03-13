@@ -43,7 +43,7 @@ Launch the required services (PostgreSQL, Kafka, Zookeeper) using Docker:
 docker-compose up -d
 
 
-2. Python Environment Setup
+2. Python Environment Setup.
 
 Create a virtual environment and install the dependencies:
 
